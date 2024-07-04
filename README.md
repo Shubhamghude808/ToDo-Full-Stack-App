@@ -7,7 +7,7 @@
 - **Task Management**: Create, read, update, and delete tasks.
 - **Responsive Design**: User-friendly interface that works on both desktop and mobile devices.
 - **RESTful API**: Backend API endpoints for managing users and tasks.
-- **Database Integration**: Persistent storage of user and task data using a relational database (e.g., MySQL or PostgreSQL).
+- **Database Integration**: Persistent storage of user and task data using a relational database (e.g., MySQL or H2).
 - **Validation and Error Handling**: Comprehensive validation and error handling on both frontend and backend.
 
 ## Technologies Used
