@@ -30,8 +30,13 @@
 
 - REST API - Import into Eclipse as Maven Project. Run `restfulwebservices.RestfulWebServicesApplication` as a Java Application. Check Authentication and REST API Sections for executing REST APIs.
 - React Application - Import `frontend/todo-app` into Visual Studio Code. Run `npm install` followed by `npm start`
-- http://localhost:3000/ with credentials in28minutes/dummy
+- http://localhost:3000/ with credentials Shubham/git808
+  
+### Default Credentials
 
+- **Username**: `Shubham`
+- **Password**: `git808`
+  
 > Look at  `Creating New Users` section for creating new users.
 
 
