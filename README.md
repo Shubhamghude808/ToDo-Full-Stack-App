@@ -14,9 +14,11 @@
 
 - **Backend**: 
   - Spring Boot
-  - Spring Security (for authentication and authorization)
+  - JSON web token(JWT) (for authentication and authorization)
+  - Spring HATEOAS (for creating REST representations)
   - JPA/Hibernate (for database interactions)
-  - MySQL/PostgreSQL (for database)
+  - H2/MySQL (for database)
+  - Swagger (for generating documents of REST APIs)
   
 - **Frontend**:
   - React
