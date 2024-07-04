@@ -41,8 +41,8 @@ POST to http://localhost:5000/authenticate
 
 ```
 {
-  "username":"in28minutes",
-  "password":"dummy"
+  "username":"Shubham",
+  "password":"git808"
 }
 ```
 
@@ -91,7 +91,7 @@ Hello World
 - http://localhost:5000/hello-world/path-variable/in28minutes
 
 ```json
-{"message":"Hello World, in28minutes"}
+{"message":"Hello World, Shubham"}
 ```
 
 ## TODO Resource Details
@@ -102,21 +102,21 @@ Hello World
 [
   {
     "id": 10001,
-    "username": "in28minutes",
+    "username": "Shubham",
     "description": "Learn JPA",
     "targetDate": "2019-06-27T06:30:30.696+0000",
     "done": false
   },
   {
     "id": 10002,
-    "username": "in28minutes",
+    "username": "Shubham",
     "description": "Learn Data JPA",
     "targetDate": "2019-06-27T06:30:30.700+0000",
     "done": false
   },
   {
     "id": 10003,
-    "username": "in28minutes",
+    "username": "Shubham",
     "description": "Learn Microservices",
     "targetDate": "2019-06-27T06:30:30.701+0000",
     "done": false
@@ -131,7 +131,7 @@ Hello World
 ```
 {
   "id": 10001,
-  "username": "in28minutes",
+  "username": "Shubham",
   "description": "Learn JPA",
   "targetDate": "2019-06-27T06:30:30.696+0000",
   "done": false
@@ -144,7 +144,7 @@ Hello World
 
 ```
 {
-  "username": "in28minutes",
+  "username": "Shubham",
   "description": "Learn to Drive a Car",
   "targetDate": "2030-11-09T10:49:23.566+0000",
   "done": false
@@ -158,7 +158,7 @@ Hello World
 ```
 {
   "id": 10001,
-  "username": "in28minutes",
+  "username": "Shubham",
   "description": "Learn to Drive a Car",
   "targetDate": "2045-11-09T10:49:23.566+0000",
   "done": false
