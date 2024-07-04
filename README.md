@@ -1,7 +1,6 @@
 # ToDo Full Stack Application with Spring Boot and React
 
-
-<img src="react_00_architecture.png" width="300">
+<img src="![R-S-D](https://github.com/Shubhamghude808/ToDo-Full-Stack-App/assets/112695994/cee0ffc6-28f9-4e76-bbf6-f16153e89661)" width="300">
 
 
 ## Running the Application
