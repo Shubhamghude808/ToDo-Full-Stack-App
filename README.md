@@ -34,25 +34,6 @@
 
 > Look at  `Creating New Users` section for creating new users.
 
-## Deploying Front End to AWS
-
-### Change /frontend-react-app/src/components/todo/api/ApiClient.js
-
-```
-export const apiClient = axios.create(
-    {
-        baseURL: 'http://localhost:5000' //#CHANGE
-    }
-);
-
-/* For Best Practices https://facebook.github.io/create-react-app/docs/adding-custom-environment-variables*/
-
-```
-
-### Create Production Build
-
-`npm run build`
-
 
 
 ## Authentication
