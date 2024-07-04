@@ -14,7 +14,7 @@
 
 - **Backend**: 
   - Spring Boot
-  - JSON web token(JWT) (for authentication and authorization)
+  - JSON web token(JWT) and Spring Security (for authentication and authorization)
   - Spring HATEOAS (for creating REST representations)
   - JPA/Hibernate (for database interactions)
   - H2/MySQL (for database)
