@@ -1,6 +1,29 @@
 # ToDo Full Stack Application with Spring Boot and React
 <img src="https://github.com/Shubhamghude808/ToDo-Full-Stack-App/assets/112695994/cee0ffc6-28f9-4e76-bbf6-f16153e89661" alt="Example Image" width="300">
 
+## Features
+
+- **User Authentication**: Secure user registration and login using JWT (JSON Web Tokens).
+- **Task Management**: Create, read, update, and delete tasks.
+- **Responsive Design**: User-friendly interface that works on both desktop and mobile devices.
+- **RESTful API**: Backend API endpoints for managing users and tasks.
+- **Database Integration**: Persistent storage of user and task data using a relational database (e.g., MySQL or PostgreSQL).
+- **Validation and Error Handling**: Comprehensive validation and error handling on both frontend and backend.
+
+## Technologies Used
+
+- **Backend**: 
+  - Spring Boot
+  - Spring Security (for authentication and authorization)
+  - JPA/Hibernate (for database interactions)
+  - MySQL/PostgreSQL (for database)
+  
+- **Frontend**:
+  - React
+  - Axios (for API calls)
+  - React Router (for navigation)
+  - Redux (for state management)
+
 ## Running the Application
 
 - REST API - Import into Eclipse as Maven Project. Run `restfulwebservices.RestfulWebServicesApplication` as a Java Application. Check Authentication and REST API Sections for executing REST APIs.
