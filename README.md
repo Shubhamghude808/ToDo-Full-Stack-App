@@ -22,7 +22,7 @@
   - React
   - Axios (for API calls)
   - React Router (for navigation)
-  - Redux (for state management)
+  - React useState Hook (for state management)
 
 ## Running the Application
 
