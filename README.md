@@ -36,7 +36,7 @@
 
 ## Deploying Front End to AWS
 
-### Change /04-frontend/todo-app/src/components/todo/api/ApiClient.js
+### Change /frontend-react-app/src/components/todo/api/ApiClient.js
 
 ```
 export const apiClient = axios.create(
